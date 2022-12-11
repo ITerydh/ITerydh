@@ -1,5 +1,7 @@
 # iterhui
 
+本人项目主要使用以下框架和语言实现：
+
 ![](https://img.shields.io/badge/Deep%20Learning%20Framework-paddlepaddle-green)
 
 ![](https://img.shields.io/badge/Deep%20Learning%20Framework-torch-green)
